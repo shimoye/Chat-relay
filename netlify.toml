@@ -1,0 +1,8 @@
+[build]
+  发布状态
+
+[[重定向]]
+  从 = "/api/chat"
+  到 = "/.netlify/functions/chat"
+  状态 = 200
+  force = true
